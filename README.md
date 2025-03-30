@@ -56,5 +56,3 @@ This project is for educational purposes and follows Harvard's CS80's AI curricu
 
 ## Acknowledgments
 - CS80 AI Course for the dataset and project inspiration.
-
-
