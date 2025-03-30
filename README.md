@@ -6,10 +6,6 @@ This program determines the number of "degrees of separation" between two actors
 ## Background
 Inspired by the Six Degrees of Kevin Bacon game, this program models the problem as a graph search. Each actor represents a node, and edges are defined by shared movie appearances. The goal is to find the shortest path between two given actors using **breadth-first search (BFS)**.
 
-## Getting Started
-### Prerequisites
-- Python 3
-
 ## Usage
 To run the program, use:
 ```sh
