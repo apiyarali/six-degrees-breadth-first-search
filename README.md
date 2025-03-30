@@ -1,4 +1,4 @@
-# Degrees of Separation
+# Degrees of Separation - Breadth-First Search (BFS)
 
 ## Overview
 This program determines the number of "degrees of separation" between two actors based on the movies they have starred in. It finds the shortest path connecting two actors by identifying the sequence of movies that links them.
