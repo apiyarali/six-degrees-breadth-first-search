@@ -52,7 +52,7 @@ The function `shortest_path(source, target)`:
 - Outputs a path of length `0` if the source and target are the same.
 
 ## License
-This project is for educational purposes and follows Harvard's CS80's AI curriculum.
+This project is for educational purposes and follows Harvard's CS80 AI curriculum.
 
 ## Acknowledgments
 - CS80 AI Course for the dataset and project inspiration.
