@@ -13,6 +13,8 @@ python degrees.py [directory]
 ```
 where `[directory]` is either `small` (for quick tests) or `large` (for the full dataset).
 
+**Large dataset directory can be downloaded from this [link](https://drive.google.com/drive/folders/1dAZzqmJ-qkg73bd2cbqw6n4OWWxeI86l?usp=sharing).**
+
 ### Example:
 ```sh
 $ python degrees.py large
